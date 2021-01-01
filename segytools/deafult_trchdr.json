@@ -1,0 +1,6 @@
+{
+    "Inline Number" : ["iline", ">", "I", 220, 224],
+    "Xline number" : ["xline", ">", "I", 20, 24],
+    "Source X": ["soy_x", ">", "I", 72, 76],
+    "Source Y" : ["sou_y", ">", "I", 76, 80]
+}

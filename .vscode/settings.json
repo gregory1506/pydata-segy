@@ -1,0 +1,7 @@
+{
+    "python.terminal.activateEnvironment": true,
+    "python.linting.pylintEnabled": true,
+    "python.condaPath": "~/miniconda3/bin/conda",
+    "terminal.integrated.shell.linux": "/bin/bash",
+    
+}
