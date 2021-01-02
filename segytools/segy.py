@@ -1,5 +1,4 @@
 import os
-from .headers import BinaryHeader, TraceHeader
 from numba import vectorize
 import numpy as np
 import pandas as pd
