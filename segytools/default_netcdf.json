@@ -1,0 +1,31 @@
+{
+    "dims" : ["iline", "xline"],
+    "variables" : {
+        "samples" : {
+            "name" : "samples",
+            "units" : "ms",
+            "long_name" : "Sample Number"
+        },
+        "data" : {
+            "name" : "data",
+            "units" : "Amplitude",
+            "description" : "Kerry 3d Stack New Zealand"
+        },
+        "iline" : {
+            "name" : "inline",
+            "units" : "inline"
+        },
+        "xline" : {
+            "name" : "xline",
+            "units" : "xline"
+        },
+        "sou_x" : {
+            "name" : "Source X",
+            "units" : "Easting"
+        },
+        "sou_y" : {
+            "name" : "Source Y",
+            "units" : "Northing"
+        }
+    }
+}

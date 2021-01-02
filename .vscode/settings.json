@@ -3,5 +3,6 @@
     "python.linting.pylintEnabled": true,
     "python.condaPath": "~/miniconda3/bin/conda",
     "terminal.integrated.shell.linux": "/bin/bash",
+    "python.pythonPath": "C:\\Users\\gr3g\\anaconda3\\envs\\numba\\python.exe",
     
 }
