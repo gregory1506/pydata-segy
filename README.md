@@ -1,3 +1,3 @@
 # pydata-segy
 
-Tools for reading segyfiles and converting them to useable formats
+Using tools in the pydata stack for reading segyfiles and converting them to useable formats for processing and visualization
