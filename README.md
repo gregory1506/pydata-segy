@@ -6,8 +6,3 @@ Seisimic data comes in many forms, but is predominantly shared in the form of SE
 
 Some formats lend themselves towards cloud architectures like NetCDF4, HDF5, Zarr and openVDS. The goal is to be able to choose interchangeably between these formats from SEGY and perform meaninful Business Intelligence and Visualizations.
 
-- [ ] include zarr format
-- [ ] include/lookup openvds format
-- [ ] support segy rev 2
-- [ ] allow user to select between numba, cupy or ibm2ieee as ibm float -> ieee float converter
-- [ ] plotting abstractions
